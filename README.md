@@ -1,4 +1,7 @@
 # Macro-Recorder-
+Macro Recorder 2.0.87
+https://drive.google.com/file/d/1rT41AfbeeEyGZ6bcmyoZaaa7vibJfIXz/view?usp=sharing
+
 Macro Recorder 3.0.40
 https://drive.google.com/file/d/10MzVxHf7Suw_rwyeCrCgAYtofdWNfWOu/view?usp=sharing
 
